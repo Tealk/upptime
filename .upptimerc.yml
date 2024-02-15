@@ -9,7 +9,7 @@ sites:
     url: https://rollenspiel.social
   - name: Lemmy
     url: https://rollenspiel.forum/api/v3/post/list
-  - name: LemmyUI
+  - name: Lemmy-UI
     url: https://rollenspiel.forum
   - name: Teamspeak
     check: "tcp-ping"
