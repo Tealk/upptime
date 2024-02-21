@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/rollenspiel.monster.ico",
     "slug": "homepage",
     "status": "up",
-    "uptime": "99.89%",
+    "uptime": "99.90%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
     "time": 748,
     "timeDay": 1057,
     "timeWeek": 748,
@@ -24,9 +24,9 @@
     "url": "https://rollenspiel.social",
     "icon": "https://icons.duckduckgo.com/ip3/rollenspiel.social.ico",
     "slug": "mastodon",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -35,7 +35,9 @@
     "timeWeek": 610,
     "timeMonth": 610,
     "timeYear": 610,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-21": 0
+    }
   },
   {
     "name": "Lemmy",
