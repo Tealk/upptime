@@ -10,11 +10,11 @@
     "uptimeWeek": "99.90%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.90%",
-    "time": 748,
-    "timeDay": 1057,
-    "timeWeek": 748,
-    "timeMonth": 748,
-    "timeYear": 748,
+    "time": 774,
+    "timeDay": 1034,
+    "timeWeek": 774,
+    "timeMonth": 774,
+    "timeYear": 774,
     "dailyMinutesDown": {
       "2024-02-15": 9
     }
@@ -25,19 +25,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/rollenspiel.social.ico",
     "slug": "mastodon",
     "status": "up",
-    "uptime": "99.88%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.88%",
-    "time": 603,
-    "timeDay": 638,
-    "timeWeek": 603,
-    "timeMonth": 603,
-    "timeYear": 603,
-    "dailyMinutesDown": {
-      "2024-02-21": 11
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 609,
+    "timeDay": 598,
+    "timeWeek": 609,
+    "timeMonth": 609,
+    "timeYear": 609,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Lemmy",
@@ -50,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 644,
-    "timeDay": 719,
-    "timeWeek": 644,
-    "timeMonth": 644,
-    "timeYear": 644,
+    "time": 656,
+    "timeDay": 789,
+    "timeWeek": 656,
+    "timeMonth": 656,
+    "timeYear": 656,
     "dailyMinutesDown": {}
   },
   {
@@ -68,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 373,
-    "timeDay": 475,
-    "timeWeek": 373,
-    "timeMonth": 373,
-    "timeYear": 373,
+    "time": 385,
+    "timeDay": 512,
+    "timeWeek": 385,
+    "timeMonth": 385,
+    "timeYear": 385,
     "dailyMinutesDown": {}
   },
   {
@@ -86,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 101,
-    "timeDay": 147,
-    "timeWeek": 101,
-    "timeMonth": 101,
-    "timeYear": 101,
+    "time": 106,
+    "timeDay": 160,
+    "timeWeek": 106,
+    "timeMonth": 106,
+    "timeYear": 106,
     "dailyMinutesDown": {}
   }
 ]
