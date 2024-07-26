@@ -1,4 +1,4 @@
-# Change these first1
+# Change these first
 owner: Tealk # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
@@ -30,9 +30,13 @@ sites:
   - name: Authentik
     url: https://auth.rollenspiel.monster
   - name: Teamspeak
+    check: "tcp-ping"
     url: 162.55.131.56
+    port: 10011
   - name: Mumble
+    check: "tcp-ping"
     url: mumble.rollenspiel.monster
+    port: 64738
   - name: Synapse
     url: https://rollenspiel.chat/health
   - name: Nextcloud
