@@ -73,10 +73,6 @@ sites:
     url: https://mail.rollenspiel.network
   - name: relay
     url: https://relay.rollenspiel.monster
-  - name: PVE
-    url: https://proxmox.rollenspiel.network:8006
-  - name: PBS
-    url: https://backup.rollenspiel.network
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
