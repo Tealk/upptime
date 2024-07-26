@@ -257,19 +257,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mumble",
     "status": "up",
-    "uptime": "9.50%",
-    "uptimeDay": "9.50%",
-    "uptimeWeek": "9.50%",
-    "uptimeMonth": "9.50%",
-    "uptimeYear": "9.50%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 418,
     "timeDay": 418,
     "timeWeek": 418,
     "timeMonth": 418,
     "timeYear": 418,
-    "dailyMinutesDown": {
-      "2024-07-26": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Synapse",
