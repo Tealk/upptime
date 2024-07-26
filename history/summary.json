@@ -257,18 +257,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mumble",
     "status": "down",
-    "uptime": "5.36%",
-    "uptimeDay": "5.36%",
-    "uptimeWeek": "5.36%",
-    "uptimeMonth": "5.36%",
-    "uptimeYear": "5.36%",
+    "uptime": "2.34%",
+    "uptimeDay": "2.34%",
+    "uptimeWeek": "2.34%",
+    "uptimeMonth": "2.34%",
+    "uptimeYear": "2.34%",
     "time": 676,
     "timeDay": 676,
     "timeWeek": 676,
     "timeMonth": 676,
     "timeYear": 676,
     "dailyMinutesDown": {
-      "2024-07-26": 0
+      "2024-07-26": 1
     }
   },
   {
