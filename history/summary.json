@@ -4,18 +4,20 @@
     "url": "https://rollenspiel.monster",
     "icon": "https://icons.duckduckgo.com/ip3/rollenspiel.monster.ico",
     "slug": "homepage",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 723,
-    "timeDay": 571,
-    "timeWeek": 723,
-    "timeMonth": 723,
-    "timeYear": 723,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 690,
+    "timeDay": 532,
+    "timeWeek": 690,
+    "timeMonth": 690,
+    "timeYear": 690,
+    "dailyMinutesDown": {
+      "2024-07-28": 0
+    }
   },
   {
     "name": "Mastodon-Web",
