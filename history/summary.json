@@ -4,19 +4,19 @@
     "url": "https://rollenspiel.monster",
     "icon": "https://icons.duckduckgo.com/ip3/rollenspiel.monster.ico",
     "slug": "homepage",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1224,
-    "timeDay": 6435,
-    "timeWeek": 1224,
-    "timeMonth": 1224,
-    "timeYear": 1224,
+    "status": "up",
+    "uptime": "99.88%",
+    "uptimeDay": "99.27%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.88%",
+    "time": 1182,
+    "timeDay": 3560,
+    "timeWeek": 1182,
+    "timeMonth": 1182,
+    "timeYear": 1182,
     "dailyMinutesDown": {
-      "2024-08-01": 0
+      "2024-08-01": 11
     }
   },
   {
