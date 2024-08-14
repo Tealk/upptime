@@ -130,18 +130,20 @@
     "url": "https://rollenspiel.trade",
     "icon": "https://icons.duckduckgo.com/ip3/rollenspiel.trade.ico",
     "slug": "flohmarkt",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 655,
-    "timeDay": 520,
-    "timeWeek": 709,
-    "timeMonth": 655,
-    "timeYear": 655,
-    "dailyMinutesDown": {}
+    "time": 652,
+    "timeDay": 558,
+    "timeWeek": 695,
+    "timeMonth": 652,
+    "timeYear": 652,
+    "dailyMinutesDown": {
+      "2024-08-14": 0
+    }
   },
   {
     "name": "Element",
