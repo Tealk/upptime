@@ -135,11 +135,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/rollenspiel.trade.ico",
     "slug": "flohmarkt",
     "status": "up",
-    "uptime": "99.14%",
+    "uptime": "99.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.66%",
-    "uptimeYear": "99.14%",
+    "uptimeYear": "99.15%",
     "time": 638,
     "timeDay": 483,
     "timeWeek": 603,
@@ -317,9 +317,9 @@
     "url": "https://poll.rollenspiel.monster",
     "icon": "https://icons.duckduckgo.com/ip3/poll.rollenspiel.monster.ico",
     "slug": "framadate",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -328,16 +328,18 @@
     "timeWeek": 533,
     "timeMonth": 490,
     "timeYear": 500,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-12": 0
+    }
   },
   {
     "name": "Bookstack",
     "url": "https://rollenspiel.wiki",
     "icon": "https://icons.duckduckgo.com/ip3/rollenspiel.wiki.ico",
     "slug": "bookstack",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -346,16 +348,18 @@
     "timeWeek": 756,
     "timeMonth": 796,
     "timeYear": 831,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-12": 0
+    }
   },
   {
     "name": "FreshRSS",
     "url": "https://rss.rollenspiel.monster",
     "icon": "https://icons.duckduckgo.com/ip3/rss.rollenspiel.monster.ico",
     "slug": "fresh-rss",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -364,7 +368,9 @@
     "timeWeek": 961,
     "timeMonth": 914,
     "timeYear": 930,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-12": 0
+    }
   },
   {
     "name": "Wallabag",
@@ -479,9 +485,9 @@
     "url": "https://tasks.rollenspiel.monster",
     "icon": "https://icons.duckduckgo.com/ip3/tasks.rollenspiel.monster.ico",
     "slug": "vikunja",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -490,7 +496,9 @@
     "timeWeek": 523,
     "timeMonth": 429,
     "timeYear": 433,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-12": 0
+    }
   },
   {
     "name": "Grafana",
