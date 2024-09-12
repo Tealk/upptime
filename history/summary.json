@@ -317,19 +317,19 @@
     "url": "https://poll.rollenspiel.monster",
     "icon": "https://icons.duckduckgo.com/ip3/poll.rollenspiel.monster.ico",
     "slug": "framadate",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 500,
-    "timeDay": 522,
-    "timeWeek": 533,
-    "timeMonth": 490,
-    "timeYear": 500,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 498,
+    "timeDay": 464,
+    "timeWeek": 517,
+    "timeMonth": 488,
+    "timeYear": 498,
     "dailyMinutesDown": {
-      "2024-09-12": 0
+      "2024-09-12": 7
     }
   },
   {
@@ -337,19 +337,19 @@
     "url": "https://rollenspiel.wiki",
     "icon": "https://icons.duckduckgo.com/ip3/rollenspiel.wiki.ico",
     "slug": "bookstack",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 831,
-    "timeDay": 562,
-    "timeWeek": 756,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 830,
+    "timeDay": 679,
+    "timeWeek": 761,
     "timeMonth": 796,
-    "timeYear": 831,
+    "timeYear": 830,
     "dailyMinutesDown": {
-      "2024-09-12": 0
+      "2024-09-12": 7
     }
   },
   {
@@ -357,19 +357,19 @@
     "url": "https://rss.rollenspiel.monster",
     "icon": "https://icons.duckduckgo.com/ip3/rss.rollenspiel.monster.ico",
     "slug": "fresh-rss",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 930,
-    "timeDay": 837,
-    "timeWeek": 961,
+    "timeDay": 871,
+    "timeWeek": 954,
     "timeMonth": 914,
     "timeYear": 930,
     "dailyMinutesDown": {
-      "2024-09-12": 0
+      "2024-09-12": 7
     }
   },
   {
@@ -485,19 +485,19 @@
     "url": "https://tasks.rollenspiel.monster",
     "icon": "https://icons.duckduckgo.com/ip3/tasks.rollenspiel.monster.ico",
     "slug": "vikunja",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 433,
-    "timeDay": 479,
-    "timeWeek": 523,
-    "timeMonth": 429,
-    "timeYear": 433,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 431,
+    "timeDay": 415,
+    "timeWeek": 502,
+    "timeMonth": 426,
+    "timeYear": 431,
     "dailyMinutesDown": {
-      "2024-09-12": 0
+      "2024-09-12": 7
     }
   },
   {
