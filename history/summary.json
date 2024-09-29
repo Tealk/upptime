@@ -106,18 +106,20 @@
     "url": "https://rollenspiel.forum",
     "icon": "https://icons.duckduckgo.com/ip3/rollenspiel.forum.ico",
     "slug": "lemmy-ui",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 992,
-    "timeDay": 1241,
-    "timeWeek": 937,
-    "timeMonth": 965,
-    "timeYear": 992,
-    "dailyMinutesDown": {}
+    "time": 985,
+    "timeDay": 885,
+    "timeWeek": 886,
+    "timeMonth": 952,
+    "timeYear": 985,
+    "dailyMinutesDown": {
+      "2024-09-29": 0
+    }
   },
   {
     "name": "Lemmy-Backend",
