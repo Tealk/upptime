@@ -475,19 +475,19 @@
     "url": "https://firefly.rollenspiel.monster",
     "icon": "https://icons.duckduckgo.com/ip3/firefly.rollenspiel.monster.ico",
     "slug": "firefly-iii",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 589,
-    "timeDay": 916,
-    "timeWeek": 632,
-    "timeMonth": 596,
-    "timeYear": 589,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 591,
+    "timeDay": 847,
+    "timeWeek": 641,
+    "timeMonth": 599,
+    "timeYear": 591,
     "dailyMinutesDown": {
-      "2024-10-18": 0
+      "2024-10-18": 8
     }
   },
   {
