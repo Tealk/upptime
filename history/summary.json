@@ -475,18 +475,20 @@
     "url": "https://firefly.rollenspiel.monster",
     "icon": "https://icons.duckduckgo.com/ip3/firefly.rollenspiel.monster.ico",
     "slug": "firefly-iii",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 580,
-    "timeDay": 450,
-    "timeWeek": 525,
-    "timeMonth": 570,
-    "timeYear": 580,
-    "dailyMinutesDown": {}
+    "time": 589,
+    "timeDay": 916,
+    "timeWeek": 632,
+    "timeMonth": 596,
+    "timeYear": 589,
+    "dailyMinutesDown": {
+      "2024-10-18": 0
+    }
   },
   {
     "name": "Vikunja",
