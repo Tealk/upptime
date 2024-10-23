@@ -115,19 +115,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/rollenspiel.forum.ico",
     "slug": "lemmy-ui",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1003,
     "timeDay": 1684,
     "timeWeek": 1191,
     "timeMonth": 1017,
     "timeYear": 1003,
-    "dailyMinutesDown": {
-      "2024-10-22": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Lemmy-Backend",
